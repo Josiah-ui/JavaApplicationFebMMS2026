@@ -1,4 +1,4 @@
-// Exercise 5.8 (Parking Charges)
+/// Exercise 5.8 (Parking Charges)
 import java.util.Scanner;
 
 public class Exercise5_08 {
